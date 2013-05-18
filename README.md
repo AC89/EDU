@@ -1,2 +1,2 @@
-Repo for notes & Example work
-forgive the dyslexic spelling
+## Educational work & Examples ##
+##			Forgive the Dyslexia			 ##
